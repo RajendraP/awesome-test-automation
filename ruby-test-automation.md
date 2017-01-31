@@ -61,7 +61,9 @@ Also:
 
 ## Code analysis
 
-[Contribute to this section](https://github.com/atinfo/awesome-test-automation/blob/master/CONTRIBUTING.md)
+* [Simplecov](https://github.com/ruby/simplecov) - Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites
+* [Coco](https://github.com/lkdjiin/coco) - Code coverage for ruby 2.0, 2.1, 2.2 and 2.3
+
 
 ## Test data
 
